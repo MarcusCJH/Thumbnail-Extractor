@@ -11,10 +11,17 @@ Use this .bat file to Extract multiple video thumbnails with the help of ffmpeg.
 
 5. Double click on Thumbnail_Extractor.bat file.
 
+## Things to note
+Parent folder should not have spaces. 
+
+Space should have underscore.
+
++ Parent_1
+  - abc.mp4
+  - abc_123.mp4
+
 ## Purpose
 
 I created this for the sake of data entry. Things to note that batch file can't run if there's space in between file name.
 
-For e.g. (12312 1231231) Cannot run. 
 
-For e.g. (12312_1231231) Can run.
