@@ -22,6 +22,6 @@ Space should have underscore.
 
 ## Purpose
 
-I created this for the sake of data entry. Things to note that batch file can't run if there's space in between file name.
+I created this for the sake of data entry. 
 
 
